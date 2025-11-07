@@ -90,6 +90,4 @@ Your exported PDF includes:
 Made with ❤️ by [Arjumand Afreen]  
 Inspired by the power of **AI + UX** to simplify information.
 
----
 
-Would you like a bilingual Roman Urdu version for teaching or certification prep? Or a markdown block for peer review?
